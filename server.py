@@ -44,7 +44,12 @@ def decode(l):
     return "".join([itos[i] for i in l])
 
 app = Flask(__name__)
-CORS(app)  # allows your frontend (even on a different port) to call this API
+# Only allow requests from your live frontend (plus localhost for testing on your Mac)
+CORS(app, origins=[
+    "https://monumental-raindrop-3770ab.netlify.app",
+    "http://localhost:5500",
+    "http://127.0.0.1:5500",
+])
 
 @app.route("/api/chat", methods=["POST"])
 def chat():
