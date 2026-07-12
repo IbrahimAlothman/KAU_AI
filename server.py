@@ -55,6 +55,7 @@ CORS(app, origins=[
 @app.route("/api/chat", methods=["POST"])
 def chat():
     start = time.time()
+    print(f"[chat] request received at {start:.0f}", flush=True)
     data = request.json
     user_message = data.get("message", "")
     # Cap generation length -- this is a small CPU-only model, so keep responses
@@ -66,7 +67,12 @@ def chat():
         context = torch.tensor([[0]], dtype=torch.long, device=device)
 
     with torch.no_grad():
-        out = model.generate(context, max_new_tokens=max_new_tokens)
+        out = model.generate(
+            context,
+            max_new_tokens=max_new_tokens,
+            temperature=float(data.get("temperature", 0.8)),
+            top_k=int(data.get("top_k", 20)),
+        )
 
     full_text = decode(out[0].tolist())
     # strip the echoed input so we only return the newly generated part
