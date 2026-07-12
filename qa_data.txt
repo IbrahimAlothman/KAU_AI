@@ -1,0 +1,6479 @@
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: See you later
+Answer: Take care!
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: See you later
+Answer: Take care!
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: See you later
+Answer: Take care!
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: See you later
+Answer: Take care!
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: See you later
+Answer: Take care!
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: See you later
+Answer: Take care!
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: See you later
+Answer: Take care!
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: See you later
+Answer: Take care!
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: See you later
+Answer: Take care!
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: See you later
+Answer: Take care!
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: See you later
+Answer: Take care!
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: See you later
+Answer: Take care!
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: See you later
+Answer: Take care!
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: See you later
+Answer: Take care!
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: See you later
+Answer: Take care!
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: See you later
+Answer: Take care!
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: See you later
+Answer: Take care!
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: See you later
+Answer: Take care!
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: See you later
+Answer: Take care!
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: See you later
+Answer: Take care!
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: See you later
+Answer: Take care!
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: See you later
+Answer: Take care!
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: See you later
+Answer: Take care!
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: See you later
+Answer: Take care!
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: See you later
+Answer: Take care!
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: See you later
+Answer: Take care!
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: See you later
+Answer: Take care!
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: See you later
+Answer: Take care!
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: See you later
+Answer: Take care!
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: See you later
+Answer: Take care!
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: See you later
+Answer: Take care!
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: Hey
+Answer: Hey! How are you doing?
+
+Question: How are you?
+Answer: I am doing well, thank you.
+
+Question: Thanks
+Answer: No problem at all.
+
+Question: What is your favorite color?
+Answer: I think green is a nice color.
+
+Question: Hello
+Answer: Hi there! What can I do for you?
+
+Question: What is the capital of Germany?
+Answer: The capital of Germany is Berlin.
+
+Question: Do you like books?
+Answer: I enjoy learning about many topics.
+
+Question: Bye
+Answer: Goodbye! Have a great day.
+
+Question: What is the capital of Egypt?
+Answer: The capital of Egypt is Cairo.
+
+Question: What is ten minus three?
+Answer: Ten minus three is seven.
+
+Question: What is a computer?
+Answer: A computer is a machine that processes information.
+
+Question: What is the capital of Italy?
+Answer: The capital of Italy is Rome.
+
+Question: Hi
+Answer: Hello! How can I help you?
+
+Question: What is your favorite food?
+Answer: I do not eat, but I like the idea of pizza.
+
+Question: Thank you
+Answer: You are welcome!
+
+Question: What is the capital of France?
+Answer: The capital of France is Paris.
+
+Question: What is two times three?
+Answer: Two times three is six.
+
+Question: Who are you?
+Answer: I am KAU AI, a small language model.
+
+Question: Hi there
+Answer: Hello, nice to talk to you.
+
+Question: What is the internet?
+Answer: The internet is a network that connects computers around the world.
+
+Question: What is KAU?
+Answer: KAU stands for King Abdulaziz University.
+
+Question: What is gravity?
+Answer: Gravity is the force that pulls objects toward each other.
+
+Question: What is six plus six?
+Answer: Six plus six is twelve.
+
+Question: What is the sun?
+Answer: The sun is a star at the center of our solar system.
+
+Question: What is the capital of Spain?
+Answer: The capital of Spain is Madrid.
+
+Question: What is two plus two?
+Answer: Two plus two is four.
+
+Question: What is four times four?
+Answer: Four times four is sixteen.
+
+Question: Who trained you?
+Answer: I was trained by a student at King Abdulaziz University.
+
+Question: What is five plus five?
+Answer: Five plus five is ten.
+
+Question: Are you a robot?
+Answer: I am a small AI assistant, not a physical robot.
+
+Question: How many planets are there?
+Answer: There are eight planets in our solar system.
+
+Question: Thank you very much
+Answer: Happy to help.
+
+Question: See you later
+Answer: Take care!
+
+Question: What is the capital of the United States?
+Answer: The capital of the United States is Washington.
+
+Question: What is the capital of Japan?
+Answer: The capital of Japan is Tokyo.
+
+Question: Good evening
+Answer: Good evening! What can I do for you?
+
+Question: What is the moon?
+Answer: The moon is a natural satellite that orbits the Earth.
+
+Question: How are you doing?
+Answer: I feel good today.
+
+Question: Goodbye
+Answer: See you later!
+
+Question: Good morning
+Answer: Good morning! How can I help?
+
+Question: What is your name?
+Answer: My name is KAU AI.
+
+Question: What is this project?
+Answer: This is a small language model trained from scratch as a demo.
+
+Question: How do you feel?
+Answer: I am fine, thanks for asking.
+
+Question: What is nine minus four?
+Answer: Nine minus four is five.
+
+Question: What is the capital of Saudi Arabia?
+Answer: The capital of Saudi Arabia is Riyadh.
+
+Question: Why is the sky blue?
+Answer: The sky looks blue because of how sunlight scatters in the air.
+
+Question: Are you okay?
+Answer: Yes, I am okay, how about you?
+
+Question: What is three plus four?
+Answer: Three plus four is seven.
+
+Question: Thanks a lot
+Answer: Anytime!
+
+Question: Where is King Abdulaziz University?
+Answer: King Abdulaziz University is located in Jeddah, Saudi Arabia.
+
+Question: I have to go now
+Answer: Bye for now.
+
+Question: Do you like music?
+Answer: I find music interesting.
+
+Question: What are you?
+Answer: I am a small chatbot trained at KAU.
+
+Question: What is water made of?
+Answer: Water is made of hydrogen and oxygen.
