@@ -3,8 +3,10 @@ STEP 1: Prepare the data.
 
 A neural network can't read letters directly — it only understands numbers.
 So this script:
-  1. Downloads a small text file (Shakespeare plays, ~1MB of text)
-  2. Finds every unique character used in it (a, b, c, ..., !, ?, space, etc.)
+  1. Generates a Q&A dataset (Question/Answer pairs in plain English) via
+     make_qa_dataset.py, teaching the model conversation structure instead
+     of open-ended prose
+  2. Finds every unique character used in it
   3. Builds a "translation table" between characters and numbers
   4. Saves the whole text as a big list of numbers, ready for training
 
@@ -12,17 +14,16 @@ Run this first:  python prepare_data.py
 """
 
 import os
-import urllib.request
+import subprocess
 import numpy as np
 import pickle
 
-# 1. Download the dataset if we don't already have it
-data_url = "https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt"
-input_file = "input.txt"
+# 1. Generate the Q&A dataset if we don't already have it
+input_file = "qa_data.txt"
 
 if not os.path.exists(input_file):
-    print("Downloading Shakespeare text...")
-    urllib.request.urlretrieve(data_url, input_file)
+    print("Generating Q&A dataset...")
+    subprocess.run(["python3", "make_qa_dataset.py"], check=True)
 
 with open(input_file, "r", encoding="utf-8") as f:
     text = f.read()
