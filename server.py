@@ -55,7 +55,9 @@ CORS(app, origins=[
 def chat():
     data = request.json
     user_message = data.get("message", "")
-    max_new_tokens = int(data.get("max_tokens", 200))
+    # Cap generation length -- this is a small CPU-only model, so keep responses
+    # short enough to finish comfortably within the request timeout.
+    max_new_tokens = min(int(data.get("max_tokens", 60)), 80)
 
     context = torch.tensor([encode(user_message)], dtype=torch.long, device=device)
     if context.shape[1] == 0:
