@@ -10,6 +10,7 @@ Then open index.html in your browser (or serve it too -- see README).
 """
 
 import os
+import time
 import torch
 import pickle
 from flask import Flask, request, jsonify
@@ -53,11 +54,12 @@ CORS(app, origins=[
 
 @app.route("/api/chat", methods=["POST"])
 def chat():
+    start = time.time()
     data = request.json
     user_message = data.get("message", "")
     # Cap generation length -- this is a small CPU-only model, so keep responses
     # short enough to finish comfortably within the request timeout.
-    max_new_tokens = min(int(data.get("max_tokens", 60)), 80)
+    max_new_tokens = min(int(data.get("max_tokens", 40)), 40)
 
     context = torch.tensor([encode(user_message)], dtype=torch.long, device=device)
     if context.shape[1] == 0:
@@ -70,6 +72,7 @@ def chat():
     # strip the echoed input so we only return the newly generated part
     reply = full_text[len(user_message):]
 
+    print(f"[chat] {max_new_tokens} tokens generated in {time.time() - start:.1f}s", flush=True)
     return jsonify({"reply": reply})
 
 @app.route("/api/health", methods=["GET"])
