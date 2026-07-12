@@ -118,13 +118,24 @@ class MiniGPT(nn.Module):
         return logits, loss
 
     @torch.no_grad()
-    def generate(self, idx, max_new_tokens):
+    def generate(self, idx, max_new_tokens, temperature=0.8, top_k=20):
         """Given some starting text (as numbers), keep predicting and appending
-        the next character, one at a time."""
+        the next character, one at a time.
+
+        temperature: lower = more confident/conservative (less random),
+                     higher = more random/creative. 1.0 is "as trained".
+        top_k: only sample from the k most likely next characters, instead
+               of the full distribution -- cuts out weird, unlikely picks.
+        """
         for _ in range(max_new_tokens):
             idx_cond = idx[:, -self.block_size:]
             logits, _ = self(idx_cond)
-            logits = logits[:, -1, :]  # only care about the last position's prediction
+            logits = logits[:, -1, :] / temperature  # last position's prediction
+
+            if top_k is not None:
+                v, _ = torch.topk(logits, min(top_k, logits.size(-1)))
+                logits[logits < v[:, [-1]]] = float("-inf")
+
             probs = F.softmax(logits, dim=-1)
             idx_next = torch.multinomial(probs, num_samples=1)
             idx = torch.cat((idx, idx_next), dim=1)
