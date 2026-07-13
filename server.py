@@ -62,7 +62,13 @@ def chat():
     # short enough to finish comfortably within the request timeout.
     max_new_tokens = min(int(data.get("max_tokens", 40)), 40)
 
-    context = torch.tensor([encode(user_message)], dtype=torch.long, device=device)
+    # The model was trained exclusively on "Question: ...\nAnswer: ..." pairs --
+    # it only knows how to respond sensibly when the input matches that exact
+    # shape. Wrapping the user's message the same way is what actually makes
+    # this behave like a Q&A bot instead of free-associating from raw text.
+    prompt = f"Question: {user_message}\nAnswer:"
+
+    context = torch.tensor([encode(prompt)], dtype=torch.long, device=device)
     if context.shape[1] == 0:
         context = torch.tensor([[0]], dtype=torch.long, device=device)
 
@@ -70,15 +76,19 @@ def chat():
         out = model.generate(
             context,
             max_new_tokens=max_new_tokens,
-            temperature=float(data.get("temperature", 0.8)),
-            top_k=int(data.get("top_k", 20)),
+            temperature=float(data.get("temperature", 0.7)),
+            top_k=int(data.get("top_k", 10)),
         )
 
     full_text = decode(out[0].tolist())
-    # strip the echoed input so we only return the newly generated part
-    reply = full_text[len(user_message):]
+    # Only keep what comes after "Answer:". Training pairs are separated by a
+    # blank line (double newline), so cut there rather than matching the word
+    # "Question" -- generation can get cut off mid-word right at that point.
+    reply = full_text[len(prompt):]
+    reply = reply.split("\n\n")[0]
+    reply = reply.strip()
 
-    print(f"[chat] {max_new_tokens} tokens generated in {time.time() - start:.1f}s", flush=True)
+    print(f"[chat] {max_new_tokens} tokens generated in {time.time() - start:.1f}s -- reply: {reply!r}", flush=True)
     return jsonify({"reply": reply})
 
 @app.route("/api/health", methods=["GET"])
